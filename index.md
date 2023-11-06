@@ -1,5 +1,5 @@
-# This is a sentence
-## This is also a sentence
+# Welcome to this amazing repository
+This is **Rishav**
 ``` javascript
 var myVar = "Hello, world!";
 ```
